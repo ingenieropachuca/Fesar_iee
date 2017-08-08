@@ -1,0 +1,48 @@
+header{
+	background-color: #000000;
+}
+
+body {
+background-color: rgb(200,200,200);
+}
+
+footer{
+	color:#ffffff;
+}
+
+.azul{
+	color: #293e6b;
+}
+
+.main{
+	background-color: #f2f2f2;
+}
+
+.borde{
+border:7px solid;
+border-bottom:none;
+border-left-color:#c8c8c8;
+border-top-color:#c8c8c8;
+border-right-color:#c8c8c8;
+}
+
+.colorazul{
+	background:#293e6b;
+}
+
+.titulo{
+background-color: #464D51;
+color: #FFF;
+}
+
+.creditos{
+	background-color: #006064 ;
+	border-color: #006064 ;
+	border-style: solid;
+	border-width: 1px;
+	color: #FFFFFF;
+}
+
+.tr1 {
+  border: #293e6b 2px solid;
+}
